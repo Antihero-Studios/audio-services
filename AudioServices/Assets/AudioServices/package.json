@@ -1,0 +1,10 @@
+{
+  "name": "com.antihero-studios.audio-services",
+  "displayName": "AudioServices",
+  "author": "Antihero Studios",
+  "description": "A modular audio system for playing music and sound-effects.",
+  "homepage": "https://github.com/antihero-studios/audio-services",
+  "license": "MIT",
+  "version": "1.0.4",
+  "unity": "2019.3"
+}
